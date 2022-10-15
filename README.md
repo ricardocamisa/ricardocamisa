@@ -5,7 +5,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardocamisa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamisa&langs_count=8&theme=tokyonight"/>
        <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocamisa&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocamisa&repo=github-readme-stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardocamisa&repo=clsTextbox"/>
 </div>
 
 <!--
