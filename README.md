@@ -8,7 +8,7 @@
     />
   </a>
 
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between">
     <a href="https://github.com/ricardocamisa">
       <img
         height="180em"
